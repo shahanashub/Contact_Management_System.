@@ -48,9 +48,13 @@ Example Interaction
 
 Contact Management System
 °°°°°°°°°°°°°°°°°°°°°°°°°°°°
+
 1.Add New Contact
+
 2.View All The Contacts
+
 3.Exit The Program
+
 Enter Your Choice: 1
 
 Enter Name: John Doe
@@ -63,13 +67,17 @@ Enter Email: john.doe@example.com
 
 Contact Management System
 ...
+
 Enter Your Choice: 2
 
 Contacts List:
 ...
+
 Contact1:
+
 Name: John Doe
 Phone: 1234567890
+
 Email: john.doe@example.com
 
 👋Exit the System👋
