@@ -54,7 +54,9 @@ Contact Management System
 Enter Your Choice: 1
 
 Enter Name: John Doe
+
 Enter Phone Number: 1234567890
+
 Enter Email: john.doe@example.com
 
 ***Contact added successfully.***
