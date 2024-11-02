@@ -45,9 +45,9 @@ int main()
                 struct contact newcontact;
                 printf("\nEnter Name:");
                 scanf("%s",newcontact.name);
-                printf("Enter Phone Number:");
+                printf("\nEnter Phone Number:");
                 scanf("%s",newcontact.phone);
-                printf("Enter Email:");
+                printf("\nEnter Email:");
                 scanf("%s",newcontact.email);
                
                 c[count]=newcontact;
