@@ -97,3 +97,8 @@ Provide a search functionality for quick access to specific contacts.
 
 License
 This program is open-source and can be modified or distributed as per your requirem
+
+
+Step 2:-
+Clone the repository
+git clone
